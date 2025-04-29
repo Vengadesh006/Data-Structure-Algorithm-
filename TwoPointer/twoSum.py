@@ -18,7 +18,7 @@ def twoSum(nums,target) :
 
         else : 
 
-            return [low , high]
+            return [low,high]
         
     return None
 
